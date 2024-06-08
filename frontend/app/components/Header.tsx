@@ -8,7 +8,7 @@ const Header = () => {
       <ul className='flex justify-around mx-12'>
         <Link href='/about' className='mx-4 text-xl text-secondary font-medium cursor-pointer hover:font-extrabold'>About us</Link>
         <Link href='/' className='mx-4 text-xl text-secondary font-medium cursor-pointer hover:font-extrabold'>Products</Link>
-        <Link href='/' className='mx-4 text-xl text-secondary font-medium cursor-pointer hover:font-extrabold'>Login</Link >
+        <Link href='/login' className='mx-4 text-xl text-secondary font-medium cursor-pointer hover:font-extrabold'>Login</Link >
         <Link href='/' className='mx-4 text-xl text-secondary font-medium cursor-pointer hover:font-extrabold'>Carrinho</Link>
       </ul>
     </div>
